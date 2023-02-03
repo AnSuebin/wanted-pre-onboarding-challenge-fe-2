@@ -1,6 +1,9 @@
 # wanted-pre-onboarding-challenge-fe-2
 프리온보딩 프론트엔드 챌린지 사전과제입니다.
 
+### 배포 링크
+https://ansuebin.github.io/wanted-pre-onboarding-challenge-fe-2/docs/
+
 ### 자기소개
 저는 코딩을 공부하고 있는 프론트엔드 개발자 직무 희망자 안수빈입니다.
 코딩을 공부한지 약 1년 정도되었습니다.
